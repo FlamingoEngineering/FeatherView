@@ -1,0 +1,16 @@
+PODS:
+  - FeatherView (0.1.0)
+
+DEPENDENCIES:
+  - FeatherView (from `../`)
+
+EXTERNAL SOURCES:
+  FeatherView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FeatherView: 90ecd862d9cffd9c99b6c6e6430a6fabfbc7938a
+
+PODFILE CHECKSUM: 2602953761e604e3a1f63c7136b41ae4aab3c1a7
+
+COCOAPODS: 1.12.1

@@ -1,0 +1,6 @@
+framework module FeatherView {
+  umbrella header "FeatherView-umbrella.h"
+
+  export *
+  module * { export * }
+}
